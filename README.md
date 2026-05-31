@@ -11,6 +11,9 @@ Documentar casos prácticos donde se analizan respuestas generadas por IA, se de
 - Caso 01 — Marketing + alucinaciones
 - Caso 02 — Soporte técnico + incertidumbre
 - Caso 03 — Recolección de requisitos
+- Caso 04 — Clasificación y priorización
+- Caso 05 — Evaluación de Calidad de Respuestas
+- Caso 06 — Detección de incumplimiento de instrucciones
 
 ## Autor
 
